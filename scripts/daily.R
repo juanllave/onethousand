@@ -1,7 +1,7 @@
 library(tidyverse)
 
 # Load the dataset
-complete <- read_csv('H:/repos/R/albums/complete.csv')
+complete <- read_csv('H:/repos/R/onethousand/files/complete.csv')
 
 # Pull the next album to listen to
 next_album <- complete %>% 
@@ -26,4 +26,4 @@ complete <- complete %>%
               by = 'id')
 
 # Export csv file
-write_csv(complete, 'H:/repos/R/albums/complete.csv')
+write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')

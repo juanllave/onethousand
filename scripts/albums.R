@@ -12,7 +12,7 @@ full <- page %>%
 names(full)[1:4] <- c('Album','Artist','Released','Genres')
 
 # Upload the listened table
-listened <- read_csv('H:/repos/R/albums/albums.csv')
+listened <- read_csv('H:/repos/R/onethousand/files/complete.csv')
 
 # Merge the tables
 complete <- full_join(full, listened,
@@ -40,4 +40,4 @@ complete <- complete %>%
               by = 'id')
 
 # Export csv file
-write_csv(complete, 'H:/repos/R/albums/complete.csv')
+write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')
