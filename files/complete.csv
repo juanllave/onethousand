@@ -26,7 +26,7 @@ The Gershwin Songbook,Ella Fitzgerald,1959,jazz,NA,NA,NA,NA,NA,24
 At Newport 1960,Muddy Waters,1960,blues,NA,NA,NA,NA,NA,25
 Elvis Is Back,Elvis Presley,1960,rock,3,It's just okay.,3.18,us,2025-01-23T04:00:59Z,26
 A Date With The Everly Brothers,The Everly Brothers,1960,"pop,rock",NA,NA,NA,NA,NA,27
-Joan Baez,Joan Baez,1960,folk,3,NA,2.97,other,2025-07-10T03:00:48Z,28
+Joan Baez,Joan Baez,1960,folk,3,NA,2.97,us,2025-07-10T03:00:48Z,28
 Miriam Makeba,Miriam Makeba,1960,"jazz,world",NA,NA,NA,NA,NA,29
 Sunday At The Village Vanguard,Bill Evans Trio,1961,jazz,NA,NA,NA,NA,NA,30
 Green Onions,Booker T. & The MG's,1962,"soul,funk",NA,NA,NA,NA,NA,31
@@ -41,7 +41,7 @@ Live At The Harlem Square Club,Sam Cooke,1963,soul,NA,NA,NA,NA,NA,39
 Night Life,Ray Price,1963,country,3,I'm glad country evolved. But this is definitely a good foundation stone.,2.81,us,2025-03-17T04:01:00Z,40
 A Girl Called Dusty,Dusty Springfield,1964,"pop,folk,soul,jazz",4,"I've some Dusty Springfield's songs before, but this is something else.",3.33,uk,2025-05-07T03:00:46Z,41
 "Live At The Star Club, Hamburg",Jerry Lee Lewis,1964,rock,NA,NA,NA,NA,NA,42
-Olympia 64,Jacques Brel,1964,"pop,rock",3,"Very, very, French.",2.78,other,2025-07-01T03:00:43Z,43
+Olympia 64,Jacques Brel,1964,"pop,rock",3,"Very, very, French.",2.78,belgium,2025-07-01T03:00:43Z,43
 A Hard Day's Night,Beatles,1964,"rock,pop",NA,NA,NA,NA,NA,44
 Rock 'N Soul,Solomon Burke,1964,soul,NA,NA,NA,NA,NA,45
 The Rolling Stones,The Rolling Stones,1964,"rock,blues",4,"Dancey, fun, great all around.",3.24,uk,2026-01-14T04:02:12Z,46
@@ -99,7 +99,7 @@ Groovin',The Young Rascals,1967,"rock,pop",3,Fun.,3.03,us,2025-12-15T04:02:21Z,9
 Sgt. Pepper's Lonely Hearts Club Band,Beatles,1967,"rock,pop",4,it's always a fun listen.,4.25,uk,2026-02-17T04:01:56Z,97
 The Who Sell Out,The Who,1967,rock,2,"There's something about The Who that I don't get. It's not that I don't like them, but every time I've gotten an album in this project it annoys me that I have to listen to it (I know I don't really *have* to listen to it). I always push through, and they're not bad, but I still can't shake that annoying feeling.",3,uk,2026-01-15T04:01:43Z,98
 Forever Changes,Love,1967,"rock,pop",3,It's okay.,3.22,us,2025-04-10T03:01:00Z,99
-Buffalo Springfield Again,Buffalo Springfield,1967,"rock,country,folk",1,Not for me.,3.18,other,2025-01-15T04:01:06Z,100
+Buffalo Springfield Again,Buffalo Springfield,1967,"rock,country,folk",1,Not for me.,3.18,canada/us,2025-01-15T04:01:06Z,100
 Triangle,The Beau Brummels,1967,"pop,rock,country",NA,NA,NA,NA,NA,101
 Are You Experienced,Jimi Hendrix,1967,"rock,blues",NA,NA,NA,NA,NA,102
 I Never Loved a Man the Way I Love You,Aretha Franklin,1967,soul,NA,NA,NA,NA,NA,103
@@ -155,7 +155,7 @@ Dusty In Memphis,Dusty Springfield,1969,"pop,folk,soul,jazz",3,So close. Very go
 Chicago Transit Authority,Chicago,1969,rock,NA,NA,NA,NA,NA,153
 Tommy,The Who,1969,rock,2,What is it that I'm not getting? Why so much love for The Who?,3.33,uk,2026-02-12T04:01:46Z,154
 Five Leaves Left,Nick Drake,1969,"folk,rock",NA,NA,NA,NA,NA,155
-Scott 4,Scott Walker,1969,"pop,rock,folk",4,This I like.,2.81,other,2025-10-06T03:01:05Z,156
+Scott 4,Scott Walker,1969,"pop,rock,folk",4,This I like.,2.81,us,2025-10-06T03:01:05Z,156
 Bayou Country,Creedence Clearwater Revival,1969,rock,NA,NA,NA,NA,NA,157
 Everybody Knows This Is Nowhere,Neil Young & Crazy Horse,1969,rock,4,NA,3.54,us,2025-11-10T04:01:43Z,158
 Cloud Nine,The Temptations,1969,"pop,soul,funk",NA,NA,NA,NA,NA,159
@@ -202,7 +202,7 @@ After The Gold Rush,Neil Young,1970,"rock,folk",NA,NA,NA,NA,NA,199
 Stephen Stills,Stephen Stills,1970,"rock,folk",3,"Folky, rocky, good enough. But maybe not really a great album.",3.18,us,2026-02-04T04:02:00Z,200
 John Lennon/Plastic Ono Band,John Lennon,1970,"rock,pop",NA,NA,NA,NA,NA,201
 Third,Soft Machine,1970,"rock,jazz",NA,NA,NA,NA,NA,202
-Tago Mago,Can,1971,rock,3,I almost liked it.,2.8,other,2025-08-25T03:00:52Z,203
+Tago Mago,Can,1971,rock,3,I almost liked it.,2.8,germany,2025-08-25T03:00:52Z,203
 Aqualung,Jethro Tull,1971,rock,2,Meh.,3.44,uk,2025-11-13T04:01:45Z,204
 Fragile,Yes,1971,rock,NA,NA,NA,NA,NA,205
 Imagine,John Lennon,1971,rock,3,It's mostly fine.,3.45,uk,2026-02-22T04:02:28Z,206
@@ -256,7 +256,7 @@ Exile On Main Street,The Rolling Stones,1972,rock,5,This is as good as it gets. 
 Paul Simon,Paul Simon,1972,"rock,folk",5,Paul Simon is comfort.,3.51,us,2025-03-23T04:00:59Z,254
 Close To The Edge,Yes,1972,rock,3,Better that I expected. Nice surprise.,3.19,uk,2025-04-06T03:00:58Z,255
 Pink Moon,Nick Drake,1972,"folk,rock",NA,NA,NA,NA,NA,256
-Clube Da Esquina,Milton Nascimento,1972,"rock,world,jazz,latin",3,It's okay.,3.13,other,2025-10-30T04:01:36Z,257
+Clube Da Esquina,Milton Nascimento,1972,"rock,world,jazz,latin",3,It's okay.,3.13,brazil,2025-10-30T04:01:36Z,257
 Roxy Music,Roxy Music,1972,"rock,pop",NA,NA,NA,NA,NA,258
 Will The Circle Be Unbroken,Nitty Gritty Dirt Band,1972,"country,folk",1,"There is only so much bluegrass a person can listen to in a day, and this album pretty much triples that amount. Not for me.",2.98,us,2026-02-03T04:02:14Z,259
 Sail Away,Randy Newman,1972,"rock,pop",NA,NA,NA,NA,NA,260
@@ -281,7 +281,7 @@ The Dark Side Of The Moon,Pink Floyd,1973,rock,NA,NA,NA,NA,NA,278
 "A Wizard, A True Star",Todd Rundgren,1973,"rock,pop,soul,electronica",NA,NA,NA,NA,NA,279
 Paris 1919,John Cale,1973,"rock,pop",3,Fun.,2.96,us,2025-05-13T03:00:47Z,280
 Countdown To Ecstasy,Steely Dan,1973,"rock,jazz",4,NA,3.29,us,2025-07-27T03:00:46Z,281
-Future Days,Can,1973,rock,3,Liked parts of it.,3,other,2025-07-29T03:00:45Z,282
+Future Days,Can,1973,rock,3,Liked parts of it.,3,germany,2025-07-29T03:00:45Z,282
 Billion Dollar Babies,Alice Cooper,1973,rock,NA,NA,NA,NA,NA,283
 Catch A Fire,Bob Marley & The Wailers,1973,reggae,NA,NA,NA,NA,NA,284
 Band On The Run,Paul McCartney and Wings,1973,rock,NA,NA,NA,NA,NA,285
@@ -336,7 +336,7 @@ Young Americans,David Bowie,1975,"rock,soul",5,Beautiful.,3.62,uk,2025-04-22T03:
 Born To Run,Bruce Springsteen,1975,rock,NA,NA,NA,NA,NA,334
 Blood On The Tracks,Bob Dylan,1975,"rock,folk",4,"Not much of a Bod Bylan fan, but there's something here.",3.67,us,2025-09-30T03:01:01Z,335
 The Hissing Of Summer Lawns,Joni Mitchell,1975,"folk,jazz",NA,NA,NA,NA,NA,336
-Tonight's The Night,Neil Young,1975,"rock,folk",4,Lovely.,3.23,other,2025-11-02T04:01:44Z,337
+Tonight's The Night,Neil Young,1975,"rock,folk",4,Lovely.,3.23,canada,2025-11-02T04:01:44Z,337
 That's The Way Of The World,"Earth, Wind & Fire",1975,"funk,soul",NA,NA,NA,NA,NA,338
 NEU! 75,Neu!,1975,rock,NA,NA,NA,NA,NA,339
 Another Green World,Brian Eno,1975,"pop,rock,electronica",NA,NA,NA,NA,NA,340
@@ -368,7 +368,7 @@ Hejira,Joni Mitchell,1976,"folk,jazz",NA,NA,NA,NA,NA,365
 Pacific Ocean Blue,Dennis Wilson,1977,"rock,pop",NA,NA,NA,NA,NA,366
 Trans Europe Express,Kraftwerk,1977,electronica,3,"I understand the importance of Kraftwerk to music. I'm happy many others took it from them and massively improve electric music and its many subgenres, and many, many others.
 
-That said, Krafwerk is not for me.",3.16,other,2026-02-16T04:02:16Z,367
+That said, Krafwerk is not for me.",3.16,germany,2026-02-16T04:02:16Z,367
 Low,David Bowie,1977,rock,NA,NA,NA,NA,NA,368
 One World,John Martyn,1977,"rock,folk,pop",4,From the cover I was expecting some prog stuff. I was definitely not ready for what it actually is. What a thing of beauty.,2.82,uk,2025-05-01T03:00:44Z,369
 Bat Out Of Hell,Meat Loaf,1977,rock,NA,NA,NA,NA,NA,370
@@ -385,7 +385,7 @@ Rattus Norvegicus,The Stranglers,1977,"rock,punk",NA,NA,NA,NA,NA,380
 Aja,Steely Dan,1977,"rock,jazz",NA,NA,NA,NA,NA,381
 Talking Heads 77,Talking Heads,1977,rock,3,It's certainly fun.,3.55,us,2025-10-01T03:00:59Z,382
 New Boots And Panties,Ian Dury,1977,"pop,rock,punk",4,This is a party I would want to go to.,2.69,uk,2026-01-20T04:01:52Z,383
-Rumours,Fleetwood Mac,1977,rock,5,NA,4.45,other,2025-11-11T04:01:33Z,384
+Rumours,Fleetwood Mac,1977,rock,5,NA,4.45,uk/us,2025-11-11T04:01:33Z,384
 Pink Flag,Wire,1977,punk,4,Not a dull moment.,3.21,uk,2026-02-01T04:01:58Z,385
 Before And After Science,Brian Eno,1977,"pop,rock,electronica",NA,NA,NA,NA,NA,386
 "Never Mind The Bollocks, Here’s The Sex Pistols",Sex Pistols,1977,punk,5,So much fun. Solid from beginning to end. This is a great listen.,3.45,uk,2026-01-28T04:02:10Z,387
@@ -407,7 +407,7 @@ Live And Dangerous,Thin Lizzy,1978,"metal,rock",NA,NA,NA,NA,NA,402
 Stardust,Willie Nelson,1978,country,NA,NA,NA,NA,NA,403
 Vento De Maio,Elis Regina,1978,"jazz,latin",NA,NA,NA,NA,NA,404
 The Man Machine,Kraftwerk,1978,electronica,NA,NA,NA,NA,NA,405
-Eternally Yours,The Saints,1978,"rock,punk",3,NA,3.07,other,2025-04-09T03:01:07Z,406
+Eternally Yours,The Saints,1978,"rock,punk",3,NA,3.07,australia,2025-04-09T03:01:07Z,406
 Darkness on the Edge of Town,Bruce Springsteen,1978,rock,4,"Dark-ish, but the fun kind of dark.",3.41,us,2025-09-29T03:00:52Z,407
 This Year's Model,Elvis Costello & The Attractions,1978,"rock,pop",NA,NA,NA,NA,NA,408
 The Cars,The Cars,1978,rock,NA,NA,NA,NA,NA,409
@@ -445,11 +445,11 @@ B-52's,The B-52's,1979,rock,NA,NA,NA,NA,NA,440
 Fear Of Music,Talking Heads,1979,rock,NA,NA,NA,NA,NA,441
 Rust Never Sleeps,Neil Young & Crazy Horse,1979,"rock,folk",NA,NA,NA,NA,NA,442
 At Budokan,Cheap Trick,1979,rock,NA,NA,NA,NA,NA,443
-Tusk,Fleetwood Mac,1979,rock,4,"Good enough, but it's hard to be Fleetwood Mac and have to improve on Rumours.",3.47,other,2025-12-09T04:01:50Z,444
+Tusk,Fleetwood Mac,1979,rock,4,"Good enough, but it's hard to be Fleetwood Mac and have to improve on Rumours.",3.47,uk/us,2025-12-09T04:01:50Z,444
 The Pleasure Principle,Gary Numan,1979,"pop,rock,electronica",NA,NA,NA,NA,NA,445
 London Calling,The Clash,1979,punk,4,"I had been a while since I last listens to this one. What a classic, and for good reason.",3.97,uk,2026-01-27T04:02:17Z,446
 Live At The Witch Trials,The Fall,1979,punk,NA,NA,NA,NA,NA,447
-Pretenders,Pretenders,1979,"rock,punk",3,So close.,3.35,other,2025-09-21T03:01:01Z,448
+Pretenders,Pretenders,1979,"rock,punk",3,So close.,3.35,uk,2025-09-21T03:01:01Z,448
 Highway to Hell,AC/DC,1979,rock,NA,NA,NA,NA,NA,449
 The Specials,The Specials,1979,"rock,reggae",2,I can keep on happily living without ever listening to The Specials again.,3.29,uk,2025-11-26T04:01:42Z,450
 Reggatta De Blanc,The Police,1979,rock,NA,NA,NA,NA,NA,451
@@ -545,11 +545,11 @@ Cafe Bleu,The Style Council,1984,pop,NA,NA,NA,NA,NA,540
 1984,Van Halen,1984,"metal,rock",NA,NA,NA,NA,NA,541
 Treasure,Cocteau Twins,1984,rock,NA,NA,NA,NA,NA,542
 Purple Rain,Prince,1984,"funk,rock,pop",4,Beautiful.,4.02,us,2025-12-22T04:01:53Z,543
-Run-D.M.C.,Run-D.M.C.,1984,hip-hop,3,"One great song, one song that has trascended time. But not for me. But I do get the importance of this album",NA,usa,2026-03-02T00:00:00Z,544
+Run-D.M.C.,Run-D.M.C.,1984,hip-hop,3,"One great song, one song that has trascended time. But not for me. But I do get the importance of this album",NA,us,2026-03-02T00:00:00Z,544
 Meat Puppets II,Meat Puppets,1984,rock,4,NA,3.02,us,2025-08-12T03:00:47Z,545
 Fear and Whiskey,Mekons,1985,rock,NA,NA,NA,NA,NA,546
 Low-Life,New Order,1985,"electronica,rock",NA,NA,NA,NA,NA,547
-Hunting High And Low,a-ha,1985,"pop,electronica",3,Almost there.,3.12,other,2025-09-17T03:01:07Z,548
+Hunting High And Low,a-ha,1985,"pop,electronica",3,Almost there.,3.12,norway,2025-09-17T03:01:07Z,548
 Brothers In Arms,Dire Straits,1985,rock,3,It's mostly okay.,3.74,uk,2025-02-19T04:01:06Z,549
 Steve McQueen,Prefab Sprout,1985,"rock,pop",3,"A handful of good songs, not really a good album.",2.99,uk,2026-01-29T04:01:56Z,550
 Rum Sodomy & The Lash,The Pogues,1985,"punk,rock,folk",NA,NA,NA,NA,NA,551
@@ -592,7 +592,7 @@ Among The Living,Anthrax,1987,metal,NA,NA,NA,NA,NA,587
 Sister,Sonic Youth,1987,rock,NA,NA,NA,NA,NA,588
 Sign 'O' The Times,Prince,1987,"funk,rock,pop",NA,NA,NA,NA,NA,589
 Bad,Michael Jackson,1987,"pop,soul",NA,NA,NA,NA,NA,590
-The Joshua Tree,U2,1987,rock,2,"This was peak U2 and yes, it has some good songs, but is it a great album? It's dull and soulless for a good stretch there.",3.66,other,2025-12-17T04:02:03Z,591
+The Joshua Tree,U2,1987,rock,2,"This was peak U2 and yes, it has some good songs, but is it a great album? It's dull and soulless for a good stretch there.",3.66,ireland,2025-12-17T04:02:03Z,591
 Actually,Pet Shop Boys,1987,"pop,electronica",NA,NA,NA,NA,NA,592
 Calenture,The Triffids,1987,rock,NA,NA,NA,NA,NA,593
 Darklands,The Jesus And Mary Chain,1987,rock,3,Good enough,3.23,uk,2025-09-16T03:00:51Z,594
@@ -671,7 +671,7 @@ AmeriKKKa's Most Wanted,Ice Cube,1990,hip-hop,NA,NA,NA,NA,NA,664
 Rust In Peace,Megadeth,1990,metal,NA,NA,NA,NA,NA,665
 The La's,The La's,1990,"pop,rock",NA,NA,NA,NA,NA,666
 Ritual De Lo Habitual,Jane's Addiction,1990,"metal,rock",NA,NA,NA,NA,NA,667
-I Do Not Want What I Haven't Got,Sinead O'Connor,1990,"folk,rock",3,Okay.,3.26,other,2025-10-15T03:01:18Z,668
+I Do Not Want What I Haven't Got,Sinead O'Connor,1990,"folk,rock",3,Okay.,3.26,ireland,2025-10-15T03:01:18Z,668
 Heaven Or Las Vegas,Cocteau Twins,1990,"rock,electronica",NA,NA,NA,NA,NA,669
 Behaviour,Pet Shop Boys,1990,"pop,electronica",NA,NA,NA,NA,NA,670
 Nowhere,Ride,1990,rock,NA,NA,NA,NA,NA,671
@@ -827,7 +827,7 @@ Walking Wounded,Everything But The Girl,1996,"rock,electronica,pop",NA,NA,NA,NA,
 Being There,Wilco,1996,"country,rock",5,Adore this one.,3.22,us,2025-04-24T03:00:44Z,821
 If You're Feeling Sinister,Belle & Sebastian,1996,"rock,pop",NA,NA,NA,NA,NA,822
 Now I Got Worry,The Jon Spencer Blues Explosion,1996,"rock,punk",1,"I usually like loud and weird, but this is not getting it done.",2.52,us,2025-10-28T04:01:37Z,823
-Millions Now Living Will Never Die,Tortoise,1996,rock,3,Almost okay.,2.89,other,2025-02-27T04:00:55Z,824
+Millions Now Living Will Never Die,Tortoise,1996,rock,3,Almost okay.,2.89,us,2025-02-27T04:00:55Z,824
 Tigermilk,Belle & Sebastian,1996,"rock,pop",NA,NA,NA,NA,NA,825
 Fuzzy Logic,Super Furry Animals,1996,rock,4,Good surprise.,2.94,uk,2025-12-21T04:01:38Z,826
 Oedipus Schmoedipus,Barry Adamson,1996,"rock,electronica",NA,NA,NA,NA,NA,827
@@ -858,7 +858,7 @@ The Boatman's Call,Nick Cave & The Bad Seeds,1997,rock,NA,NA,NA,NA,NA,851
 In It For The Money,Supergrass,1997,rock,3,Mostly okay.,3.23,uk,2025-05-27T03:00:48Z,852
 Supa Dupa Fly,Missy Elliott,1997,hip-hop,NA,NA,NA,NA,NA,853
 When I Was Born For The 7th Time,Cornershop,1997,"pop,rock",NA,NA,NA,NA,NA,854
-Homework,Daft Punk,1997,electronica,4,They were onto something.,3.29,other,2025-05-06T03:00:50Z,855
+Homework,Daft Punk,1997,electronica,4,They were onto something.,3.29,france,2025-05-06T03:00:50Z,855
 Butterfly,Mariah Carey,1997,pop,NA,NA,NA,NA,NA,856
 Maverick A Strike,Finley Quaye,1997,reggae,NA,NA,NA,NA,NA,857
 Shleep,Robert Wyatt,1997,rock,NA,NA,NA,NA,NA,858
@@ -898,7 +898,7 @@ The Contino Sessions,Death In Vegas,1999,"electronica,rock",4,Surprising.,2.9,us
 69 Love Songs,The Magnetic Fields,1999,"pop,rock",NA,NA,NA,NA,NA,892
 Remedy,Basement Jaxx,1999,electronica,4,"Dancey, groovy, fun.",2.68,uk,2025-02-04T04:00:44Z,893
 Kenza,Khaled,1999,"pop,world",NA,NA,NA,NA,NA,894
-Ágætis Byrjun,Sigur Rós,1999,rock,3,It's okay.,3.37,other,2025-12-29T04:02:41Z,895
+Ágætis Byrjun,Sigur Rós,1999,rock,3,It's okay.,3.37,iceland,2025-12-29T04:02:41Z,895
 S&M,Metallica,1999,metal,NA,NA,NA,NA,NA,896
 São Paulo Confessions,Suba,1999,electronica,NA,NA,NA,NA,NA,897
 I See A Darkness,"Bonnie ""Prince"" Billy",1999,"folk,rock",NA,NA,NA,NA,NA,898
@@ -920,7 +920,7 @@ Felt Mountain,Goldfrapp,2000,"electronica,pop",NA,NA,NA,NA,NA,913
 All That You Can't Leave Behind,U2,2000,rock,NA,NA,NA,NA,NA,914
 Heartbreaker,Ryan Adams,2000,"country,folk,rock",4,Solid.,3.03,us,2025-10-19T03:00:52Z,915
 Kid A,Radiohead,2000,rock,NA,NA,NA,NA,NA,916
-Since I Left You,The Avalanches,2000,"rock,electronica",5,"I knew some of The Avalanches, but I've never devoted the time to listen to a full album. What a magnificent surprise.",3.28,other,2025-09-22T03:00:46Z,917
+Since I Left You,The Avalanches,2000,"rock,electronica",5,"I knew some of The Avalanches, but I've never devoted the time to listen to a full album. What a magnificent surprise.",3.28,australia,2025-09-22T03:00:46Z,917
 Sincere,Mj Cole,2000,electronica,NA,NA,NA,NA,NA,918
 The Hour Of Bewilderbeast,Badly Drawn Boy,2000,"pop,rock,electronica",NA,NA,NA,NA,NA,919
 Red Dirt Girl,Emmylou Harris,2000,"country,folk",NA,NA,NA,NA,NA,920
@@ -933,10 +933,10 @@ Lost Souls,Doves,2000,rock,4,Hooked from the get go. Love this one.,3.16,uk,2025
 Chore of Enchantment,Giant Sand,2000,rock,NA,NA,NA,NA,NA,927
 Yankee Hotel Foxtrot,Wilco,2001,rock,5,*chef's kiss*,3.31,us,2025-05-29T03:00:44Z,928
 The Blueprint,JAY Z,2001,hip-hop,NA,NA,NA,NA,NA,929
-Vespertine,Björk,2001,"pop,electronica",5,Beautiful.,3.16,other,2025-05-21T03:00:43Z,930
+Vespertine,Björk,2001,"pop,electronica",5,Beautiful.,3.16,iceland,2025-05-21T03:00:43Z,930
 Southern Rock Opera,Drive-By Truckers,2001,"country,rock",2,Meh. Done many times before.,2.81,us,2025-12-11T04:01:30Z,931
 Is This It,The Strokes,2001,rock,NA,NA,NA,NA,NA,932
-La Revancha Del Tango,Gotan Project,2001,"electronica,jazz,world,latin",1,"This is the exact album that seemingly all restaurants in México played between 2001 and 2005, probably later. And for a reason. It's background music, nothing more.",3.04,other,2025-09-28T03:01:06Z,933
+La Revancha Del Tango,Gotan Project,2001,"electronica,jazz,world,latin",1,"This is the exact album that seemingly all restaurants in México played between 2001 and 2005, probably later. And for a reason. It's background music, nothing more.",3.04,argentina,2025-09-28T03:01:06Z,933
 Rings Around The World,Super Furry Animals,2001,rock,2,"There comes a point, and we arrive quite quickly to it, when all brit-pop sounds exactly the same. This is not necessarily a bad album; it's just one more.",2.97,uk,2025-12-03T04:02:16Z,934
 Gold,Ryan Adams,2001,"country,rock",NA,NA,NA,NA,NA,935
 White Blood Cells,The White Stripes,2001,rock,5,NA,3.66,us,2025-09-23T03:00:50Z,936
@@ -960,7 +960,7 @@ The Coral,The Coral,2002,"pop,rock",4,It’s fun. Very fun.,3,uk,2025-12-23T04:0
 Under Construction,Missy Elliott,2002,hip-hop,NA,NA,NA,NA,NA,954
 Sea Change,Beck,2002,"rock,folk",5,Beautiful.,3.33,us,2025-08-11T03:00:48Z,955
 Stripped,Christina Aguilera,2002,pop,NA,NA,NA,NA,NA,956
-Highly Evolved,The Vines,2002,rock,4,Fun.,3.03,other,2025-08-06T03:00:44Z,957
+Highly Evolved,The Vines,2002,rock,4,Fun.,3.03,australia,2025-08-06T03:00:44Z,957
 Justified,Justin Timberlake,2002,pop,NA,NA,NA,NA,NA,958
 Sunshine Hit Me,The Bees,2002,rock,2,Some good songs here and there. Not a great album.,2.98,uk,2026-01-11T04:01:50Z,959
 A Little Deeper,Ms. Dynamite,2002,"hip-hop,electronica",3,It's a constant hit and miss. Not a solid album.,2.82,uk,2025-11-12T04:01:35Z,960
@@ -989,7 +989,7 @@ Destroy Rock & Roll,Mylo,2004,electronica,4,Very fun.,2.88,uk,2025-08-14T03:00:4
 Penance Soiree,The Icarus Line,2004,rock,NA,NA,NA,NA,NA,983
 The College Dropout,Kanye West,2004,hip-hop,NA,NA,NA,NA,NA,984
 Rejoicing In The Hands,Devendra Banhart,2004,"folk,rock",3,NA,2.82,us,2025-10-12T03:00:58Z,985
-Abattoir Blues / The Lyre of Orpheus,Nick Cave & The Bad Seeds,2004,rock,5,Beautiful.,3.32,other,2025-04-08T03:01:04Z,986
+Abattoir Blues / The Lyre of Orpheus,Nick Cave & The Bad Seeds,2004,rock,5,Beautiful.,3.32,australia,2025-04-08T03:01:04Z,986
 Smile,Brian Wilson,2004,"pop,rock",NA,NA,NA,NA,NA,987
 Medúlla,Björk,2004,"pop,electronica",NA,NA,NA,NA,NA,988
 Street Signs,Ozomatli,2004,"world,funk,hip-hop,latin",NA,NA,NA,NA,NA,989
@@ -1022,7 +1022,7 @@ Cross,Justice,2007,electronica,NA,NA,NA,NA,NA,1015
 Oracular Spectacular,MGMT,2007,"rock,electronica,pop",3,NA,3.62,us,2025-01-01T04:00:58Z,1016
 Sound of Silver,LCD Soundsystem,2007,"rock,electronica",5,This is one of my favourites.,3.42,us,2025-10-14T03:01:07Z,1017
 In Rainbows,Radiohead,2007,rock,NA,NA,NA,NA,NA,1018
-Neon Bible,Arcade Fire,2007,rock,5,What a master piece.,3.34,other,2025-03-31T03:01:04Z,1019
+Neon Bible,Arcade Fire,2007,rock,5,What a master piece.,3.34,canada,2025-03-31T03:01:04Z,1019
 Myths Of The Near Future,Klaxons,2007,rock,NA,NA,NA,NA,NA,1020
 "The Good, The Bad & The Queen","The Good, The Bad & The Queen",2007,rock,4,Pretty great.,3.03,uk,2026-01-19T04:01:53Z,1021
 Fleet Foxes,Fleet Foxes,2008,"pop,folk,rock",NA,NA,NA,NA,NA,1022
@@ -1071,7 +1071,7 @@ Music in Exile,Songhoy Blues,2015,"world,rock,blues",NA,NA,NA,NA,NA,1064
 25,Adele,2015,pop,NA,NA,NA,NA,NA,1065
 Vulnicura,Björk,2015,"pop,electronica",NA,NA,NA,NA,NA,1066
 Blackstar,David Bowie,2016,"rock,jazz",NA,NA,NA,NA,NA,1067
-You Want It Darker,Leonard Cohen,2016,"folk,rock",4,NA,3.32,other,2025-07-07T03:00:48Z,1068
+You Want It Darker,Leonard Cohen,2016,"folk,rock",4,NA,3.32,canada,2025-07-07T03:00:48Z,1068
 A Seat at the Table,Solange,2016,"pop,soul",NA,NA,NA,NA,NA,1069
 Konnichiwa,Skepta,2016,hip-hop,NA,NA,NA,NA,NA,1070
 american dream,LCD Soundsystem,2017,"rock,electronica",NA,NA,NA,NA,NA,1071
