@@ -117,7 +117,7 @@ Gris Gris,Dr. John,1968,"blues,funk,jazz",NA,NA,NA,NA,NA,114
 Cheap Thrills,Big Brother & The Holding Company,1968,rock,NA,NA,NA,NA,NA,115
 Scott 2,Scott Walker,1968,"pop,rock,folk",1,"It starts beautifully, then it doesn't amount to much.",2.63,uk,2025-01-13T04:01:04Z,116
 Bookends,Simon & Garfunkel,1968,folk,4,NA,3.56,us,2025-05-08T03:00:45Z,117
-Caetano Veloso,Caetano Veloso,1968,"latin,rock",3,"Fun, dancey, good all around.",NA,brazil,2026-02-24,118
+Caetano Veloso,Caetano Veloso,1968,"latin,rock",3,"Fun, dancey, good all around.",NA,brazil,2026-02-24T00:00:00Z,118
 The Village Green Preservation Society,The Kinks,1968,"rock,pop",NA,NA,NA,NA,NA,119
 Eli And The Thirteenth Confession,Laura Nyro,1968,pop,NA,NA,NA,NA,NA,120
 In-A-Gadda-Da-Vida,Iron Butterfly,1968,rock,NA,NA,NA,NA,NA,121
@@ -135,7 +135,7 @@ Truth,Jeff Beck,1968,"metal,blues,rock",NA,NA,NA,NA,NA,132
 We're Only In It For The Money,The Mothers Of Invention,1968,rock,NA,NA,NA,NA,NA,133
 "Blood, Sweat & Tears","Blood, Sweat & Tears",1968,rock,3,Too jazzy for me. But not bad.,3.16,us,2025-07-14T03:00:48Z,134
 Traffic,Traffic,1968,rock,NA,NA,NA,NA,NA,135
-Hot Buttered Soul,Isaac Hayes,1969,,NA,NA,NA,NA,NA,136
+Hot Buttered Soul,Isaac Hayes,1969,NA,NA,NA,NA,NA,NA,136
 Abbey Road,Beatles,1969,"rock,pop",NA,NA,NA,NA,NA,137
 In A Silent Way,Miles Davis,1969,jazz,NA,NA,NA,NA,NA,138
 Hot Rats,Frank Zappa,1969,rock,NA,NA,NA,NA,NA,139
@@ -545,7 +545,7 @@ Cafe Bleu,The Style Council,1984,pop,NA,NA,NA,NA,NA,540
 1984,Van Halen,1984,"metal,rock",NA,NA,NA,NA,NA,541
 Treasure,Cocteau Twins,1984,rock,NA,NA,NA,NA,NA,542
 Purple Rain,Prince,1984,"funk,rock,pop",4,Beautiful.,4.02,us,2025-12-22T04:01:53Z,543
-Run-D.M.C.,Run-D.M.C.,1984,hip-hop,NA,NA,NA,NA,NA,544
+Run-D.M.C.,Run-D.M.C.,1984,hip-hop,3,"One great song, one song that has trascended time. But not for me. But I do get the importance of this album",NA,usa,2026-03-02T00:00:00Z,544
 Meat Puppets II,Meat Puppets,1984,rock,4,NA,3.02,us,2025-08-12T03:00:47Z,545
 Fear and Whiskey,Mekons,1985,rock,NA,NA,NA,NA,NA,546
 Low-Life,New Order,1985,"electronica,rock",NA,NA,NA,NA,NA,547
@@ -970,7 +970,7 @@ Wonderful Rainbow,Lightning Bolt,2003,rock,2,NA,2.29,us,2025-01-21T04:01:01Z,963
 Speakerboxxx/The Love Below,OutKast,2003,hip-hop,NA,NA,NA,NA,NA,964
 Fever To Tell,Yeah Yeah Yeahs,2003,"rock,punk",NA,NA,NA,NA,NA,965
 Deloused in the Comatorium,The Mars Volta,2003,rock,4,This is something else.,3.19,us,2025-08-24T03:00:45Z,966
-Frank,Amy Winehouse,2003,"soul,jazz,rock",3,Good enough.,NA,uk,2025-02-24,967
+Frank,Amy Winehouse,2003,"soul,jazz,rock",3,Good enough.,NA,uk,2025-02-24T00:00:00Z,967
 Get Rich Or Die Tryin',50 Cent,2003,hip-hop,NA,NA,NA,NA,NA,968
 Hail To the Thief,Radiohead,2003,rock,NA,NA,NA,NA,NA,969
 Permission to Land,The Darkness,2003,"metal,rock",NA,NA,NA,NA,NA,970
