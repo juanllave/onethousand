@@ -11,3 +11,8 @@ plot1 <- board %>%
   ggplot() +
   aes(y = Rating) +
   geom_boxplot()
+
+plot2 <- board %>% 
+  ggplot() +
+  aes(y = Rating, x = Decade) +
+  geom_boxplot()
