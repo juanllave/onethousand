@@ -15,7 +15,7 @@ next_album <- next_album %>%
   replace_na(list(
     # Replace with correct values after each album has been listened to
     Rating = 4, 
-    Notes = 'I remember listening this album when it first came out in 2007. What a changing moment, still feels ahead of its time',
+    Notes = 'Folk, dance, fun',
     Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
@@ -27,3 +27,9 @@ complete <- complete %>%
 
 # Export csv file
 write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')
+
+## Only used to fix mistakes
+#  complete <- complete %>% 
+#     mutate(Origin = if_else(id == 365, 'canada', Origin),
+#            Notes = if_else(id == 840, 'Always a fun listen', Notes)
+#           )
