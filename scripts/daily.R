@@ -15,7 +15,7 @@ next_album <- next_album %>%
   replace_na(list(
     # Replace with correct values after each album has been listened to
     Rating = 3, 
-    Notes = 'Only you know is a beautiful song. The album as a whole has its beauty, too, but I do not think is one of the greatest albums ever.',
+    Notes = 'I believe hip-hop was already in a different place by then.',
     Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
