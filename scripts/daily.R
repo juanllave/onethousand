@@ -15,7 +15,7 @@ next_album <- next_album %>%
   replace_na(list(
     # Replace with correct values after each album has been listened to
     Rating = 4, 
-    Notes = 'Really liked it.',
+    Notes = 'I have always believed that Jay Z is severly overrated. If this his best album, which it mus be as it is the only one on the list, I can confrm my suspicions that he is indeed extrenely overrated.',
     Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
@@ -28,8 +28,8 @@ complete <- complete %>%
 # Export csv file
 write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')
 
-## Only used to fix mistakes
-#  complete <- complete %>% 
-#     mutate(Origin = if_else(id == 365, 'canada', Origin),
-#            Notes = if_else(id == 840, 'Always a fun listen', Notes)
+# # Only used to fix mistakes
+#  complete <- complete %>%
+#     mutate(Origin = if_else(id == 929, 'us', Origin),
+#            Rating = if_else(id == 929, 1, Rating)
 #           )
