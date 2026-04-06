@@ -14,9 +14,9 @@ next_album
 next_album <- next_album %>% 
   replace_na(list(
     # Replace with correct values after each album has been listened to
-    Rating = 3, 
-    Notes = 'It is fun. Great? I am not so sure.',
-    Origin = 'england',
+    Rating = 4, 
+    Notes = 'This was a great listen. Good album.',
+    Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
 
@@ -27,9 +27,3 @@ complete <- complete %>%
 
 # Export csv file
 write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')
-
-# # Only used to fix mistakes
-#  complete <- complete %>%
-#     mutate(Origin = if_else(id == 929, 'us', Origin),
-#            Rating = if_else(id == 929, 1, Rating)
-#           )
