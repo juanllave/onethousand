@@ -14,9 +14,9 @@ next_album
 next_album <- next_album %>% 
   replace_na(list(
     # Replace with correct values after each album has been listened to
-    Rating = 4, 
-    Notes = 'I have always believed that Jay Z is severly overrated. If this his best album, which it mus be as it is the only one on the list, I can confrm my suspicions that he is indeed extrenely overrated.',
-    Origin = 'us',
+    Rating = 3, 
+    Notes = 'It is fun. Great? I am not so sure.',
+    Origin = 'england',
     `Generated Date` = Sys.Date()
   ))
 
