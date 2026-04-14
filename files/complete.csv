@@ -353,7 +353,7 @@ Boston,Boston,1976,rock,2,Meh.,NA,us,2026-04-01T00:00:00Z,350
 Station To Station,David Bowie,1976,rock,4,"Not the best of Bowie, but good enough.",NA,england,2026-04-06T00:00:00Z,351
 Hotel California,Eagles,1976,rock,3,Not for me.,3.59,us,2025-07-21T03:00:51Z,352
 Ramones,Ramones,1976,punk,NA,NA,NA,NA,NA,353
-Music From The Penguin Cafe,Penguin Cafe Orchestra,1976,pop,NA,NA,NA,NA,NA,354
+Music From The Penguin Cafe,Penguin Cafe Orchestra,1976,pop,1,Really?,NA,england,2026-04-14T00:00:00Z,354
 Frampton Comes Alive,Peter Frampton,1976,rock,3,It is fun. Great? I am not so sure.,NA,england,2026-04-06T00:00:00Z,355
 Oxygène,Jean-Michel Jarre,1976,electronica,NA,NA,NA,NA,NA,356
 Joan Armatrading,Joan Armatrading,1976,"pop,rock",NA,NA,NA,NA,NA,357
@@ -571,7 +571,7 @@ Skylarking,XTC,1986,"rock,pop",NA,NA,NA,NA,NA,566
 Guitar Town,Steve Earle,1986,"country,folk,rock",NA,NA,NA,NA,NA,567
 Reign In Blood,Slayer,1986,metal,NA,NA,NA,NA,NA,568
 E.V.O.L.,Sonic Youth,1986,rock,NA,NA,NA,NA,NA,569
-Master Of Puppets,Metallica,1986,metal,NA,NA,NA,NA,NA,570
+Master Of Puppets,Metallica,1986,metal,2,Meh.,NA,us,2026-04-14T00:00:00Z,570
 Peace Sells...But Who's Buying,Megadeth,1986,metal,NA,NA,NA,NA,NA,571
 The Queen Is Dead,The Smiths,1986,rock,4,"Even with Morrissey being the way that he is, this is one fine piece of work.",3.67,uk,2025-06-29T03:00:40Z,572
 Licensed To Ill,Beastie Boys,1986,hip-hop,NA,NA,NA,NA,NA,573
@@ -942,7 +942,7 @@ Gold,Ryan Adams,2001,"country,rock",NA,NA,NA,NA,NA,935
 White Blood Cells,The White Stripes,2001,rock,5,NA,3.66,us,2025-09-23T03:00:50Z,936
 Time (The Revelator),Gillian Welch,2001,country,NA,NA,NA,NA,NA,937
 Melody A.M.,Röyksopp,2001,electronica,NA,NA,NA,NA,NA,938
-Your New Favourite Band,The Hives,2001,"rock,punk",NA,NA,NA,NA,NA,939
+Your New Favourite Band,The Hives,2001,"rock,punk",3,The Hives have better albums than this.,NA,sweden,2026-04-14T00:00:00Z,939
 Gorillaz,Gorillaz,2001,rock,NA,NA,NA,NA,NA,940
 Bright Flight,Silver Jews,2001,rock,NA,NA,NA,NA,NA,941
 Amnesiac,Radiohead,2001,rock,NA,NA,NA,NA,NA,942
@@ -1040,7 +1040,7 @@ Merriweather Post Pavilion,Animal Collective,2009,"rock,pop",4,Jewel.,2.91,us,20
 Fever Ray,Fever Ray,2009,"pop,electronica",4,So beautiful.,NA,sweden,2026-04-08T00:00:00Z,1034
 It's Blitz!,Yeah Yeah Yeahs,2009,"rock,punk,electronica",4,What a beauty.,3.48,us,2026-01-22T04:01:58Z,1035
 Veckatimest,Grizzly Bear,2009,"pop,folk,rock",4,NA,3.05,us,2025-03-03T04:00:52Z,1036
-Bitte Orca,Dirty Projectors,2009,"pop,folk,rock,electronica",NA,NA,NA,NA,NA,1037
+Bitte Orca,Dirty Projectors,2009,"pop,folk,rock,electronica",3,"Not necessarily bad, but really nothing special.",NA,us,2026-04-14T00:00:00Z,1037
 Sometimes I Wish We Were An Eagle,Bill Callahan,2009,country,NA,NA,NA,NA,NA,1038
 Halcyon Digest,Deerhunter,2010,rock,4,I didn't know what to expect with the Diane Arbus-ish cover. What a great surprise this was.,3.05,us,2025-02-09T04:00:58Z,1039
 Brothers,The Black Keys,2010,"rock,blues",4,"It's almost very good, great start and end. Kind of weak in the middle.",3.57,us,2025-01-19T04:00:59Z,1040
