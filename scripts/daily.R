@@ -14,13 +14,13 @@ next_album
 next_album <- next_album %>% 
   replace_na(list(
     # Replace with correct values after each album has been listened to
-    Rating = 2, 
-    Notes = 'Meh.',
-    Origin = 'england',
+    Rating = 4, 
+    Notes = 'Better than I expected.',
+    Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
 
-# Merge the listened album to complete, re-run next_album
+# Merge the listened album to complete
 complete <- complete %>% 
   rows_update(next_album,
               by = 'id')
