@@ -1,7 +1,7 @@
 Album,Artist,Released,Genres,Rating,Notes,Global Rating,Origin,Generated Date,id
 In The Wee Small Hours,Frank Sinatra,1955,jazz,NA,NA,NA,NA,NA,1
 Elvis Presley,Elvis Presley,1956,rock,3,Mostly fun.,3.38,us,2025-02-03T04:00:49Z,2
-The Wildest!,Louis Prima,1956,"jazz,blues",NA,NA,NA,NA,NA,3
+The Wildest!,Louis Prima,1956,"jazz,blues",3,Fun.,NA,us,2026-05-21T00:00:00Z,3
 Songs For Swingin' Lovers!,Frank Sinatra,1956,jazz,NA,NA,NA,NA,NA,4
 Tragic Songs of Life,The Louvin Brothers,1956,"folk,country",3,Nice. But not for me.,2.58,us,2025-03-20T04:00:59Z,5
 Ellington at Newport,Duke Ellington,1956,jazz,NA,NA,NA,NA,NA,6
@@ -9,7 +9,7 @@ Kenya,Machito,1957,jazz,NA,NA,NA,NA,NA,7
 Palo Congo,Sabu,1957,"world,jazz",NA,NA,NA,NA,NA,8
 This Is Fats Domino,Fats Domino,1957,"blues,rock,soul",NA,NA,NA,NA,NA,9
 Birth Of The Cool,Miles Davis,1957,jazz,NA,NA,NA,NA,NA,10
-The Sounds Of India,Ravi Shankar,1957,world,NA,NA,NA,NA,NA,11
+The Sounds Of India,Ravi Shankar,1957,world,2,I do not have the cultural background to adequately judge this album. All I know is I was bored.,NA,india,2026-05-21T00:00:00Z,11
 Here's Little Richard,Little Richard,1957,"rock,blues",NA,NA,NA,NA,NA,12
 Brilliant Corners,Thelonious Monk,1957,jazz,NA,NA,NA,NA,NA,13
 Chirping Crickets,Buddy Holly & The Crickets,1957,"pop,rock",NA,NA,NA,NA,NA,14
@@ -263,7 +263,7 @@ Sail Away,Randy Newman,1972,"rock,pop",NA,NA,NA,NA,NA,260
 Talking Book,Stevie Wonder,1972,"funk,soul",3,Some great songs.,NA,us,2026-05-12T00:00:00Z,261
 Home Is Where The Music Is,Hugh Masekela,1972,"jazz,world",NA,NA,NA,NA,NA,262
 Greetings From L.A.,Tim Buckley,1972,"pop,folk,rock",4,This is something else.,2.85,us,2025-07-31T03:00:49Z,263
-Superfly,Curtis Mayfield,1972,"soul,funk",NA,NA,NA,NA,NA,264
+Superfly,Curtis Mayfield,1972,"soul,funk",3,Meh.,NA,us,2026-05-21T00:00:00Z,264
 Vol. 4,Black Sabbath,1972,metal,NA,NA,NA,NA,NA,265
 Slayed?,Slade,1972,rock,NA,NA,NA,NA,NA,266
 American Gothic,David Ackles,1972,country,3,It's okay.,2.48,us,2025-11-06T04:01:39Z,267
@@ -295,7 +295,7 @@ Mott,Mott The Hoople,1973,rock,NA,NA,NA,NA,NA,292
 (Pronounced 'Leh-'Nérd 'Skin-'Nérd),Lynyrd Skynyrd,1973,rock,NA,NA,NA,NA,NA,293
 Bongo Rock,Incredible Bongo Band,1973,"funk,rock",NA,NA,NA,NA,NA,294
 Head Hunters,Herbie Hancock,1973,"jazz,funk",NA,NA,NA,NA,NA,295
-3 + 3,The Isley Brothers,1973,"soul,funk",NA,NA,NA,NA,NA,296
+3 + 3,The Isley Brothers,1973,"soul,funk",3,Fun enough,NA,us,2026-05-21T00:00:00Z,296
 Innervisions,Stevie Wonder,1973,"funk,soul",NA,NA,NA,NA,NA,297
 Larks' Tongues In Aspic,King Crimson,1973,rock,NA,NA,NA,NA,NA,298
 Next,The Sensational Alex Harvey Band,1973,rock,3,It has some very interesting songs. I don't necessarily like it as an album.,2.71,uk,2025-02-18T04:00:59Z,299
@@ -547,7 +547,7 @@ Treasure,Cocteau Twins,1984,rock,NA,NA,NA,NA,NA,542
 Purple Rain,Prince,1984,"funk,rock,pop",4,Beautiful.,4.02,us,2025-12-22T04:01:53Z,543
 Run-D.M.C.,Run-D.M.C.,1984,hip-hop,3,"One great song, one song that has trascended time. But not for me. But I do get the importance of this album",NA,us,2026-03-02T00:00:00Z,544
 Meat Puppets II,Meat Puppets,1984,rock,4,NA,3.02,us,2025-08-12T03:00:47Z,545
-Fear and Whiskey,Mekons,1985,rock,NA,NA,NA,NA,NA,546
+Fear and Whiskey,Mekons,1985,rock,3,Just okay,NA,england,2026-05-21T00:00:00Z,546
 Low-Life,New Order,1985,"electronica,rock",NA,NA,NA,NA,NA,547
 Hunting High And Low,a-ha,1985,"pop,electronica",3,Almost there.,3.12,norway,2025-09-17T03:01:07Z,548
 Brothers In Arms,Dire Straits,1985,rock,3,It's mostly okay.,3.74,uk,2025-02-19T04:01:06Z,549
@@ -669,7 +669,7 @@ Pills 'n' Thrills And Bellyaches,Happy Mondays,1990,"rock,electronica",NA,NA,NA,
 Fear Of A Black Planet,Public Enemy,1990,hip-hop,4,I get it.,NA,us,2026-03-16T00:00:00Z,663
 AmeriKKKa's Most Wanted,Ice Cube,1990,hip-hop,NA,NA,NA,NA,NA,664
 Rust In Peace,Megadeth,1990,metal,NA,NA,NA,NA,NA,665
-The La's,The La's,1990,"pop,rock",NA,NA,NA,NA,NA,666
+The La's,The La's,1990,"pop,rock",2,Looking Glass is a great song in an otherwise bland album.,NA,england,2026-05-21T00:00:00Z,666
 Ritual De Lo Habitual,Jane's Addiction,1990,"metal,rock",NA,NA,NA,NA,NA,667
 I Do Not Want What I Haven't Got,Sinead O'Connor,1990,"folk,rock",3,Okay.,3.26,ireland,2025-10-15T03:01:18Z,668
 Heaven Or Las Vegas,Cocteau Twins,1990,"rock,electronica",NA,NA,NA,NA,NA,669
