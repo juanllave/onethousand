@@ -37,7 +37,7 @@ With The Beatles,Beatles,1963,"rock,pop",3,Nothing wrong with it. Simply not the
 James Brown Live At The Apollo,James Brown,1963,"funk,soul",4,So much fun,NA,us,2026-03-06T00:00:00Z,36
 The Black Saint And The Sinner Lady,Charles Mingus,1963,jazz,NA,NA,NA,NA,NA,37
 Back At The Chicken Shack,Jimmy Smith,1963,"jazz,funk,blues",NA,NA,NA,NA,NA,38
-Live At The Harlem Square Club,Sam Cooke,1963,soul,NA,NA,NA,NA,NA,39
+Live At The Harlem Square Club,Sam Cooke,1963,soul,4,"This was so much so fun. But again, no live album should be on this list.",NA,us,2026-05-22T00:00:00Z,39
 Night Life,Ray Price,1963,country,3,I'm glad country evolved. But this is definitely a good foundation stone.,2.81,us,2025-03-17T04:01:00Z,40
 A Girl Called Dusty,Dusty Springfield,1964,"pop,folk,soul,jazz",4,"I've some Dusty Springfield's songs before, but this is something else.",3.33,uk,2025-05-07T03:00:46Z,41
 "Live At The Star Club, Hamburg",Jerry Lee Lewis,1964,rock,NA,NA,NA,NA,NA,42
@@ -67,7 +67,7 @@ Fifth Dimension,The Byrds,1966,"rock,country,folk",3,NA,3.07,uk,2025-10-02T03:01
 Wild Is The Wind,Nina Simone,1966,"blues,soul,jazz",NA,NA,NA,NA,NA,66
 Face to Face,The Kinks,1966,rock,3,NA,3.28,uk,2025-09-04T03:01:13Z,67
 Revolver,Beatles,1966,"rock,pop",NA,NA,NA,NA,NA,68
-Blonde On Blonde,Bob Dylan,1966,"rock,folk",NA,NA,NA,NA,NA,69
+Blonde On Blonde,Bob Dylan,1966,"rock,folk",2,Boring.,NA,us,2026-05-22T00:00:00Z,69
 Da Capo,Love,1966,"rock,pop",NA,NA,NA,NA,NA,70
 "Parsley, Sage, Rosemary And Thyme",Simon & Garfunkel,1966,folk,4,Great.,NA,us,2026-05-05T00:00:00Z,71
 Pet Sounds,The Beach Boys,1966,"pop,rock",3,It's okay.,3.93,us,2025-06-12T03:01:11Z,72
@@ -149,7 +149,7 @@ The Stooges,The Stooges,1969,"rock,punk",NA,NA,NA,NA,NA,146
 Songs From A Room,Leonard Cohen,1969,"folk,rock",NA,NA,NA,NA,NA,147
 Basket of Light,Pentangle,1969,"folk,rock",NA,NA,NA,NA,NA,148
 The Band,The Band,1969,"rock,country,folk",NA,NA,NA,NA,NA,149
-The Velvet Underground,The Velvet Underground,1969,rock,NA,NA,NA,NA,NA,150
+The Velvet Underground,The Velvet Underground,1969,rock,3,I prefer other albums of theirs.,NA,us,2026-05-25T00:00:00Z,150
 From Elvis In Memphis,Elvis Presley,1969,rock,NA,NA,NA,NA,NA,151
 Dusty In Memphis,Dusty Springfield,1969,"pop,folk,soul,jazz",3,So close. Very good.,3.47,uk,2025-11-27T04:02:08Z,152
 Chicago Transit Authority,Chicago,1969,rock,NA,NA,NA,NA,NA,153
@@ -225,7 +225,7 @@ The Yes Album,Yes,1971,rock,2,"No, not really.",3.31,uk,2025-01-30T04:00:52Z,222
 If I Could Only Remember My Name,David Crosby,1971,"country,folk,rock",4,NA,3.07,us,2025-08-31T03:01:05Z,223
 Nilsson Schmilsson,Harry Nilsson,1971,"rock,pop",NA,NA,NA,NA,NA,224
 Surf's Up,The Beach Boys,1971,"pop,rock",3,Fun. Almost there.,NA,us,2026-03-24T00:00:00Z,225
-Live!,Fela Kuti,1971,"funk,soul,world",NA,NA,NA,NA,NA,226
+Live!,Fela Kuti,1971,"funk,soul,world",2,Meh.,NA,nigeria,2026-05-25T00:00:00Z,226
 Who's Next,The Who,1971,rock,NA,NA,NA,NA,NA,227
 Madman Across The Water,Elton John,1971,"rock,pop",NA,NA,NA,NA,NA,228
 John Prine,John Prine,1971,"country,folk",3,Mostly fine.,3.21,us,2025-08-20T03:00:49Z,229
@@ -333,7 +333,7 @@ Nighthawks At The Diner,Tom Waits,1975,"folk,rock,blues",5,Another gem.,3.01,us,
 Toys In The Attic,Aerosmith,1975,rock,2,Yeah. Not for me.,3.26,us,2026-01-26T04:01:51Z,331
 Go Girl Crazy,The Dictators,1975,"punk,rock",NA,NA,NA,NA,NA,332
 Young Americans,David Bowie,1975,"rock,soul",5,Beautiful.,3.62,uk,2025-04-22T03:00:48Z,333
-Born To Run,Bruce Springsteen,1975,rock,NA,NA,NA,NA,NA,334
+Born To Run,Bruce Springsteen,1975,rock,4,Good one. Far from his best.,NA,us,2026-05-25T00:00:00Z,334
 Blood On The Tracks,Bob Dylan,1975,"rock,folk",4,"Not much of a Bod Bylan fan, but there's something here.",3.67,us,2025-09-30T03:01:01Z,335
 The Hissing Of Summer Lawns,Joni Mitchell,1975,"folk,jazz",NA,NA,NA,NA,NA,336
 Tonight's The Night,Neil Young,1975,"rock,folk",4,Lovely.,3.23,canada,2025-11-02T04:01:44Z,337
@@ -505,7 +505,7 @@ New Gold Dream (81/82/83/84),Simple Minds,1982,"rock,pop,electronica",NA,NA,NA,N
 Too Rye Ay,Dexys Midnight Runners,1982,"rock,pop",NA,NA,NA,NA,NA,501
 Junkyard,The Birthday Party,1982,"punk,rock",4,This was good.,2.16,us,2025-03-24T04:00:57Z,502
 1999,Prince,1982,"funk,rock,pop",NA,NA,NA,NA,NA,503
-The Lexicon Of Love,ABC,1982,"rock,pop",NA,NA,NA,NA,NA,504
+The Lexicon Of Love,ABC,1982,"rock,pop",3,A nice surprise.,NA,england,2026-05-25T00:00:00Z,504
 Black Metal,Venom,1982,metal,NA,NA,NA,NA,NA,505
 The Rise & Fall,Madness,1982,rock,NA,NA,NA,NA,NA,506
 Imperial Bedroom,Elvis Costello & The Attractions,1982,"rock,pop",NA,NA,NA,NA,NA,507
@@ -578,7 +578,7 @@ Licensed To Ill,Beastie Boys,1986,hip-hop,NA,NA,NA,NA,NA,573
 Raising Hell,Run-D.M.C.,1986,hip-hop,NA,NA,NA,NA,NA,574
 The Colour Of Spring,Talk Talk,1986,"rock,pop",4,I really liked it but I'm note really sure of why.,3.07,uk,2025-02-16T04:00:59Z,575
 Graceland,Paul Simon,1986,"rock,folk,pop",NA,NA,NA,NA,NA,576
-Slippery When Wet,Bon Jovi,1986,"metal,rock",2, Meh.,NA,us,2026-05-22T00:00:00Z,577
+Slippery When Wet,Bon Jovi,1986,"metal,rock",2,Meh.,NA,us,2026-05-22T00:00:00Z,577
 Infected,The The,1986,rock,NA,NA,NA,NA,NA,578
 Water From An Ancient Well,Abdullah Ibrahim,1986,jazz,NA,NA,NA,NA,NA,579
 Atomizer,Big Black,1986,"punk,rock",3,Not quite. But not bad.,2.73,us,2025-04-30T03:00:45Z,580
@@ -1064,7 +1064,7 @@ m b v,My Bloody Valentine,2013,rock,NA,NA,NA,NA,NA,1057
 The Next Day,David Bowie,2013,rock,3,"Not at his best, but a good listen regardless.",3.3,uk,2025-10-21T03:01:33Z,1058
 The Bones Of What You Believe,CHVRCHES,2013,"electronica,pop",NA,NA,NA,NA,NA,1059
 LP1,FKA twigs,2014,"pop,electronica",NA,NA,NA,NA,NA,1060
-1989,Taylor Swift,2014,pop,NA,NA,NA,NA,NA,1061
+1989,Taylor Swift,2014,pop,3,Probably her best.,NA,us,2026-05-22T00:00:00Z,1061
 Lost In The Dream,The War On Drugs,2014,rock,4,The beauty of this one is high up there.,3.39,us,2025-01-14T04:01:08Z,1062
 To Pimp A Butterfly,Kendrick Lamar,2015,hip-hop,NA,NA,NA,NA,NA,1063
 Music in Exile,Songhoy Blues,2015,"world,rock,blues",NA,NA,NA,NA,NA,1064
