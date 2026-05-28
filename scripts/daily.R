@@ -15,7 +15,7 @@ next_album <- next_album %>%
   replace_na(list(
     # Replace with correct values after each album has been listened to
     Rating = 4, 
-    Notes = 'Good one. Far from his best.',
+    Notes = 'Fantastic.',
     Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
@@ -25,5 +25,5 @@ complete <- complete %>%
   rows_update(next_album,
               by = 'id')
 
-# Export csv file
+# Export csv file, then start again from the top
 write_csv(complete, 'H:/repos/R/onethousand/files/complete.csv')
