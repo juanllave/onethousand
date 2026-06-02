@@ -201,7 +201,7 @@ McCartney,Paul McCartney,1970,"rock,pop",2,"I don't get the love. It's not bad, 
 After The Gold Rush,Neil Young,1970,"rock,folk",NA,NA,NA,NA,NA,199
 Stephen Stills,Stephen Stills,1970,"rock,folk",3,"Folky, rocky, good enough. But maybe not really a great album.",3.18,us,2026-02-04T04:02:00Z,200
 John Lennon/Plastic Ono Band,John Lennon,1970,"rock,pop",3,"Okay, fun enough.",NA,england,2026-05-11T00:00:00Z,201
-Third,Soft Machine,1970,"rock,jazz",NA,NA,NA,NA,NA,202
+Third,Soft Machine,1970,"rock,jazz",2,What a bore.,NA,england,2026-06-02T00:00:00Z,202
 Tago Mago,Can,1971,rock,3,I almost liked it.,2.8,germany,2025-08-25T03:00:52Z,203
 Aqualung,Jethro Tull,1971,rock,2,Meh.,3.44,uk,2025-11-13T04:01:45Z,204
 Fragile,Yes,1971,rock,NA,NA,NA,NA,NA,205
@@ -593,10 +593,10 @@ Sister,Sonic Youth,1987,rock,NA,NA,NA,NA,NA,588
 Sign 'O' The Times,Prince,1987,"funk,rock,pop",NA,NA,NA,NA,NA,589
 Bad,Michael Jackson,1987,"pop,soul",NA,NA,NA,NA,NA,590
 The Joshua Tree,U2,1987,rock,2,"This was peak U2 and yes, it has some good songs, but is it a great album? It's dull and soulless for a good stretch there.",3.66,ireland,2025-12-17T04:02:03Z,591
-Actually,Pet Shop Boys,1987,"pop,electronica",NA,NA,NA,NA,NA,592
+Actually,Pet Shop Boys,1987,"pop,electronica",4,Pop at its best.,NA,england,2026-06-02T00:00:00Z,592
 Calenture,The Triffids,1987,rock,NA,NA,NA,NA,NA,593
 Darklands,The Jesus And Mary Chain,1987,rock,3,Good enough,3.23,uk,2025-09-16T03:00:51Z,594
-Appetite For Destruction,Guns N' Roses,1987,"metal,rock",NA,NA,NA,NA,NA,595
+Appetite For Destruction,Guns N' Roses,1987,"metal,rock",4,A collection of great song and a couple of not so great.,NA,us,2026-06-02T00:00:00Z,595
 Locust Abortion Technician,Butthole Surfers,1987,"rock,punk",3,"Almost there. I like it in general, but I'm not sure if I need to listen to it again.",2.39,us,2026-02-02T04:02:04Z,596
 Faith,George Michael,1987,pop,NA,NA,NA,NA,NA,597
 Opus Dei,Laibach,1987,"metal,rock",NA,NA,NA,NA,NA,598
@@ -796,7 +796,7 @@ Brown Sugar,D'Angelo,1995,soul,NA,NA,NA,NA,NA,789
 (What's The Story) Morning Glory,Oasis,1995,rock,NA,NA,NA,NA,NA,790
 Different Class,Pulp,1995,rock,NA,NA,NA,NA,NA,791
 Exit Planet Dust,The Chemical Brothers,1995,electronica,NA,NA,NA,NA,NA,792
-Foo Fighters,Foo Fighters,1995,rock,NA,NA,NA,NA,NA,793
+Foo Fighters,Foo Fighters,1995,rock,2,Meh.,NA,us,2026-06-02T00:00:00Z,793
 Elastica,Elastica,1995,rock,NA,NA,NA,NA,NA,794
 I Should Coco,Supergrass,1995,rock,NA,NA,NA,NA,NA,795
 Garbage,Garbage,1995,"rock,electronica",4,NA,3.39,us,2025-09-11T03:01:18Z,796
@@ -804,7 +804,7 @@ A Northern Soul,The Verve,1995,rock,3,"Sure, I guess why not.",2.91,uk,2025-03-1
 Mellon Collie and the Infinite Sadness,The Smashing Pumpkins,1995,rock,4,Love this one.,3.68,us,2025-04-07T03:01:00Z,798
 Femi Kuti,Femi Kuti,1995,"pop,world",3,Fun.,NA,nigeria,2026-05-14T00:00:00Z,799
 Leftism,Leftfield,1995,electronica,4,Fun.,2.91,uk,2025-07-30T03:00:50Z,800
-The Bends,Radiohead,1995,rock,NA,NA,NA,NA,NA,801
+The Bends,Radiohead,1995,rock,4,Good. Not their best.,NA,england,2026-06-02T00:00:00Z,801
 Maxinquaye,Tricky,1995,electronica,4,So similar and yet so different than Massive Attack.,NA,england,2026-05-15T00:00:00Z,802
 Only Built 4 Cuban Linx,Raekwon,1995,hip-hop,NA,NA,NA,NA,NA,803
 Smokers Delight,Nightmares On Wax,1995,"electronica,hip-hop",NA,NA,NA,NA,NA,804
@@ -1073,7 +1073,7 @@ Vulnicura,Björk,2015,"pop,electronica",NA,NA,NA,NA,NA,1066
 Blackstar,David Bowie,2016,"rock,jazz",NA,NA,NA,NA,NA,1067
 You Want It Darker,Leonard Cohen,2016,"folk,rock",4,NA,3.32,canada,2025-07-07T03:00:48Z,1068
 A Seat at the Table,Solange,2016,"pop,soul",NA,NA,NA,NA,NA,1069
-Konnichiwa,Skepta,2016,hip-hop,NA,NA,NA,NA,NA,1070
+Konnichiwa,Skepta,2016,hip-hop,3,First and last track are great. The rest is unremarkable.,NA,england,2026-06-01T00:00:00Z,1070
 american dream,LCD Soundsystem,2017,"rock,electronica",NA,NA,NA,NA,NA,1071
 Modern Kosmology,Jane Weaver,2017,"rock,pop",NA,NA,NA,NA,NA,1072
 Melodrama,Lorde,2017,pop,NA,NA,NA,NA,NA,1073

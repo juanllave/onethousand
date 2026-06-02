@@ -1,0 +1,28 @@
+---
+title: "1001 Albums"
+format: html
+---
+
+## 1001 Albums
+
+```{r}
+#| label: libraries
+#| echo: false
+
+library(tidyverse)
+library(reactable)
+```
+
+```{r}
+#| label: data
+#| echo: false
+
+complete <- read_csv('H:/repos/R/onethousand/files/complete.csv')
+```
+
+```{r}
+#| label: table
+#| echo: false
+
+reactable(complete)
+```
