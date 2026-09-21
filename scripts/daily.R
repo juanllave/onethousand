@@ -16,7 +16,7 @@ next_album <- next_album %>%
     # Replace with correct values after each album has been listened to
     Rating = 2, 
     Notes = 'Meh.',
-    Origin = 'us',
+    Origin = 'australia',
     `Generated Date` = Sys.Date()
   ))
 
