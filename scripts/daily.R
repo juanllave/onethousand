@@ -14,8 +14,8 @@ next_album
 next_album <- next_album %>% 
   replace_na(list(
     # Replace with correct values after each album has been listened to
-    Rating = 2, 
-    Notes = 'Some good, some bad, meh.',
+    Rating = 3, 
+    Notes = 'Cute.',
     Origin = 'us',
     `Generated Date` = Sys.Date()
   ))
